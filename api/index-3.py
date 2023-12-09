@@ -1,4 +1,4 @@
-from Dashboard import get_country_data
+from index import get_country_data
 from pandas import read_csv
 import numpy as np
 import plotly.offline as pyo
